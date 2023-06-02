@@ -1,3 +1,3 @@
-### Hi there 👋 My Name is Luca Soares!
+### ☛ Hi there 👋 My Name is Luca Soares!
 
-###### My Freecodecamp: https://www.freecodecamp.org/LucaSoarez 
+###### • My Freecodecamp: https://www.freecodecamp.org/LucaSoarez 
